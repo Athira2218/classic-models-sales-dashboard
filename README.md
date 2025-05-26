@@ -12,10 +12,10 @@ Based on a guided project from Graeme Gordon's Udemy course on data analytics.
 - Net Profit by Office Country
 - Net Profit by Customer Country
 - KPIs:
-  - Total Sales: $8.65M
-  - Net Profit: $2.68M
-  - Unique Orders: 292
-  - Average Order Value: $29.63K
+  - Total Sales
+  - Net Profit
+  - Unique Orders
+  - Average Order Value
 
 ### Page 2 – Drilldown View
 - Sankey Chart showing Net Profit flow: Country → Product Line → Customer
